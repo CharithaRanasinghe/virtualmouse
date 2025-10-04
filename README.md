@@ -34,5 +34,5 @@ Control your PC entirely with hand gestures using a standard webcam! This projec
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/virtual-hand-mouse.git
-cd virtual-hand-mouse
+git clone https://github.com/CharithaRanasinghe/virtualmouse.git
+cd virtualmouse
