@@ -17,7 +17,7 @@ Control your PC entirely with hand gestures using a standard webcam! This projec
 
 ## 🎥 Demo
 ![Virtual Mouse Demo](demo.gif)  
-*Example of using the virtual mouse with gestures.*
+(https://drive.google.com/file/d/1zjR9b81MNZ7mUFaNP3jT-FDDBW56vgry/view?usp=sharing)
 
 ---
 
